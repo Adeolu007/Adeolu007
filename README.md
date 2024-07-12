@@ -20,9 +20,9 @@ I'm Adeolu, a dedicated software developer 💻 experienced in Java and Node.js.
 🌲 Git and Version Control\
 🚀 API Development\
 ☁️ AWS\
-✏️ Error Handling and Debugging\
+✏️ Error Handling and Debugging
 
 ## Projects
-Microservice-based Banking System https://github.com/Adeolu007/EazyBytes-Bank 
-Waste Management System https://github.com/Adeolu007/EkoGuard-Waste-Management
+Microservice-based Banking System https://github.com/Adeolu007/EazyBytes-Bank\ 
+Waste Management System https://github.com/Adeolu007/EkoGuard-Waste-Management\
 Fleet Management Syatem https://github.com/Adeolu007/Emperor-Fleet-Management-System-Monolithic
